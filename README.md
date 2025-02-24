@@ -26,5 +26,5 @@
 - **School:** Secondary School No. 12, Cheboksary  
   *Graduation year:* 2022 
 
-## 📞 **How to Reach Me**
-- evgeny.ugolnik@gmail.com 📧
+## 📧 **How to Reach Me**
+- evgeny.ugolnik@gmail.com
