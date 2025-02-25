@@ -9,7 +9,7 @@
   *Responsibilities:* Server administration, automation, monitoring
 
 - **Freelance:**  
-  *Focus areas:* Python Telegram Bot Development👾
+  *Focus areas:* Python Telegram Bot Development
 
 
 ## 🏆 **Hackathons**
